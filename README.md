@@ -61,10 +61,10 @@
 ---
 
 
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d770e7ad-fa48-4f7c-abe9-0b67679cca5d" alt="yassa" width="100%" style="margin: 0; padding: 0; display:block;">
+  <video src="https://github.com/user-attachments/assets/15bdb8e9-2aad-4fce-9d8e-ab5fb224d956" width="90%" autoplay loop muted playsinline></video>
 </p>
+
 
 
 
