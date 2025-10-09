@@ -226,10 +226,12 @@ Want to explore **LuxTech** on your own device? , Download and test the latest v
 ---
 
 ## 🙏 Special Thanks
+
 Our Academic Doctors and Supervisors:
 Thank you for your valuable guidance, insights, and constant encouragement which helped bring this project to life.<br>
 Your support and collaboration were essential to the success of this work.<br>
 A special thanks to my team members for their contributions during the development process, and to everyone who supported us in any capacity.
+
 ---
 
 ## 👥 Team Members
