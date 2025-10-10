@@ -51,14 +51,12 @@
   <img src="https://playerzon.com/asset/download.png" width="150">
 </a>
 
----
-
 ### 👁️‍🗨️ Secondary Users UI v1.0.0
 <a href="https://release-assets.githubusercontent.com/github-production-release-asset/1072019006/5ce598c9-3349-4e18-8b39-736d6ff37527?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-10-09T08%3A46%3A17Z&rscd=attachment%3B+filename%3DSecondaryLuxTech.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-10-09T07%3A45%3A32Z&ske=2025-10-09T08%3A46%3A17Z&sks=b&skv=2018-11-09&sig=oNM8CzeQK%2Ber%2Bviufx7NNTy9JNuS%2FZR7V28SHBKic3o%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc1OTk5ODY1OSwibmJmIjoxNzU5OTk2ODU5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.McHzGxyfxXThcD75Lla5FmaZOjSW3b3ueb16KwnFVoQ&response-content-disposition=attachment%3B%20filename%3DSecondaryLuxTech.apk&response-content-type=application%2Fvnd.android.package-archive">
   <img src="https://playerzon.com/asset/download.png" width="150">
 </a>
 
----
+
 
 
 <p align="center">
