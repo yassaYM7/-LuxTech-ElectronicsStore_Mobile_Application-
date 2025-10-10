@@ -46,14 +46,15 @@
 
 ## 📱 Download App ![GitHub All Releases](https://img.shields.io/github/downloads/yassaYM7/E-Commerce-App-Inclusive-Electronics-with-Voice-Assistant-Flutter/total?color=green)
 ### 👨‍🦯 Primary Users UI v1.0.0
-<a href="https://github.com/yassaYM7/LUXETECH-ElectronicsStore_Mobile_Application/releases/download/v1.0.0/PrimaryLuxTech.apk">
+<a href="https://github.com/yassaYM7/E-Commerce-App-Inclusive-Electronics-with-Voice-Assistant-Flutter/releases/download/primary-v1.0.0/PrimaryLuxTech.apk">
   <img src="https://playerzon.com/asset/download.png" width="150">
 </a>
 
 ### 👁️‍🗨️ Secondary Users UI v1.0.0
-<a href="https://github.com/yassaYM7/LUXETECH-ElectronicsStore_Mobile_Application/releases/download/v1.0.0/SecondaryLuxTech.apk">
+<a href="https://github.com/yassaYM7/E-Commerce-App-Inclusive-Electronics-with-Voice-Assistant-Flutter/releases/download/Secondary_v1.0.0/SecondaryLuxTech.apk">
   <img src="https://playerzon.com/asset/download.png" width="150">
 </a>
+
 
 
 
